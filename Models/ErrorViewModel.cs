@@ -1,4 +1,4 @@
-namespace RegistroMiembros.Models
+﻿namespace RegistroMiembros.Models
 {
     public class ErrorViewModel
     {
